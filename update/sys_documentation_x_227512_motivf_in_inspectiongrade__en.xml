@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="InspectionGrade" language="en" table="x_227512_motivf_in_inspectiongrade">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>InspectionGrade</label>
+            <language>en</language>
+            <name>x_227512_motivf_in_inspectiongrade</name>
+            <plural>InspectionGrades</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 01:16:05</sys_created_on>
+            <sys_id>6549e79a4fc21300e00c0fbf9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>InspectionGrade</sys_name>
+            <sys_package display_value="Motivf_Inspector" source="x_227512_motivf_in">9b790a524f021300e00c0fbf9310c75c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Motivf_Inspector">9b790a524f021300e00c0fbf9310c75c</sys_scope>
+            <sys_update_name>sys_documentation_x_227512_motivf_in_inspectiongrade__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 01:16:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
