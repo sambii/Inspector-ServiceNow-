@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="InspectionReport">791fef5e4fc21300e00c0fbf9310c7b0</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ReportID</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_227512_motivf_in_inspectionreport</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 01:42:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5d3fe39e4fc21300e00c0fbf9310c722</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>InspectionReportID</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Motivf_Inspector" source="x_227512_motivf_in">9b790a524f021300e00c0fbf9310c75c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Motivf_Inspector">9b790a524f021300e00c0fbf9310c75c</sys_scope>
+        <sys_update_name>sys_app_module_5d3fe39e4fc21300e00c0fbf9310c722</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 01:43:11</sys_updated_on>
+        <timeline_page/>
+        <title>InspectionReportID</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

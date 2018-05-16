@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 01:41:31</sys_created_on>
+        <sys_id>421f239e4fc21300e00c0fbf9310c71e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_227512_motivf_in_inspectionreport.x_227512_motivf_in.inspectionreport_user</sys_name>
+        <sys_package display_value="Motivf_Inspector" source="x_227512_motivf_in">9b790a524f021300e00c0fbf9310c75c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Motivf_Inspector">9b790a524f021300e00c0fbf9310c75c</sys_scope>
+        <sys_security_acl display_value="x_227512_motivf_in_inspectionreport">391f239e4fc21300e00c0fbf9310c71b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_421f239e4fc21300e00c0fbf9310c71e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 01:41:31</sys_updated_on>
+        <sys_user_role display_value="x_227512_motivf_in.inspectionreport_user" name="x_227512_motivf_in.inspectionreport_user">751fef5e4fc21300e00c0fbf9310c7aa</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

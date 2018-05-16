@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>InspectionReport</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>InspectionReport</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">407df166b92013006517ce7df7ee46cc</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 01:41:31</sys_created_on>
+        <sys_id>c21f239e4fc21300e00c0fbf9310c74f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>InspectionReport</sys_name>
+        <sys_package display_value="Motivf_Inspector" source="x_227512_motivf_in">9b790a524f021300e00c0fbf9310c75c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Motivf_Inspector">9b790a524f021300e00c0fbf9310c75c</sys_scope>
+        <sys_update_name>sys_wizard_answer_c21f239e4fc21300e00c0fbf9310c74f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 01:41:31</sys_updated_on>
+        <table/>
+        <target_url>x_227512_motivf_in_inspectionreport.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

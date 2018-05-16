@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_227512_motivf_in_inspectionreport</description>
+        <name>x_227512_motivf_in_inspectionreport</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-16 01:41:31</sys_created_on>
+        <sys_id>c61f239e4fc21300e00c0fbf9310c737</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_227512_motivf_in_inspectionreport</sys_name>
+        <sys_package display_value="Motivf_Inspector" source="x_227512_motivf_in">9b790a524f021300e00c0fbf9310c75c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Motivf_Inspector">9b790a524f021300e00c0fbf9310c75c</sys_scope>
+        <sys_update_name>sys_security_acl_c61f239e4fc21300e00c0fbf9310c737</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-16 01:41:31</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
