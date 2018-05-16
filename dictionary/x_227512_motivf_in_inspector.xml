@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Inspector" max_length="40" name="x_227512_motivf_in_inspector" type="collection"/>
+</database>
